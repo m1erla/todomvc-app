@@ -71,7 +71,10 @@ function TodoMVC() {
 	<p>Created by <a href="https://d12n.me/">Dmitry Sharabin</a></p>
 	<p>Part of <a href="http://todomvc.com">TodoMVC</a></p>
 </footer>
-  
+   <div style={{color: 'red', backgroundColor: 'blue'}}>
+
+	Lorem ipsum dolor sit.
+   </div>
 
     </div>
   )

@@ -1,13 +1,19 @@
 import './App.css';
-import TodoMVC from './components/mvc';
+import Users from "./components/Users"
+import React from "react";
 
-function App() {
+function App(){
   return (
-    <div className="App">
-      <TodoMVC/>
-     
-    </div>
+   <div>
+  <Users/>
+    App
+   </div>
   );
+
 }
+
+
+ 
+
 
 export default App;
